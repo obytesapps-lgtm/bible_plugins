@@ -1,0 +1,7 @@
+{
+  "pluginManifestUrls": [
+    "https://example.com/bible-version-1.manifest",
+    "https://example.com/bible-version-2.manifest",
+    "https://example.com/bible-version-3.manifest"
+  ]
+}
