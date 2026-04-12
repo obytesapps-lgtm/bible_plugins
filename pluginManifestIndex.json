@@ -1,7 +1,5 @@
 {
-  "pluginManifestUrls": [
-    "https://example.com/bible-version-1.manifest",
-    "https://example.com/bible-version-2.manifest",
-    "https://example.com/bible-version-3.manifest"
-  ]
+"pluginManifestUrls": [
+"https://raw.githubusercontent.com/obytesapps-lgtm/bible_plugins/main/manifest.json"
+]
 }
